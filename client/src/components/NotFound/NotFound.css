@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: "Helvetica Neue", "Helvetica", sans-serif;
+}
+.Notfound_div{
+    text-align: center;
+}
+.Notfound_header{
+    font-weight: 200;
+}
+.Notfound_img{
+    width: 10%;
+}
+.Notfound_home{
+    border-radius: 4px;
+    background: rgb(43, 136, 217);
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    font-size: 18px;
+}
